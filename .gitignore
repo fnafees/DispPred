@@ -1,0 +1,5 @@
+# ignore all . files and . folders
+.*
+!/.gitignore
+!/.dockerignore
+mlruns
